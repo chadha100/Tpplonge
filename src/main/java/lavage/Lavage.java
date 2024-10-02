@@ -23,7 +23,7 @@ public class Lavage {
 		l2.interrupt();
 		l3.interrupt();
 		e.interrupt();
-		//e2.interrupt();
+		//e2.interrupt();'
 		//e3.interrupt();
 	}
 }
